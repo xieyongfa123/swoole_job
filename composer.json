@@ -1,5 +1,5 @@
 {
-    "name": "kcloze/swoole-jobs",
+    "name": "kcloze/swoole-jobs2",
     "description": "基于swoole的job调度组件，类似gearman的分布式任务处理系统",
     "keywords": ["swoole", "job", "scheduler", "调度"],
     "homepage": "https://github.com/kcloze/swoole-jobs",
@@ -8,7 +8,7 @@
         "php": ">=7.0",
         "ext-swoole": ">=1.8.9",
         "ext-redis": "*",
-        "symfony/console": "^3.4",
+        "symfony/console": "^5.0",
         "bramus/router": "^1.3",
         "guzzlehttp/guzzle": "^6.3",
         "enqueue/amqp-ext": "^0.8"
