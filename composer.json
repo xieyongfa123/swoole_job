@@ -24,7 +24,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Kcloze\\Jobs\\": "src"
+            "Kcloze2\\Jobs\\": "src"
         }
     },
     "bin": [
